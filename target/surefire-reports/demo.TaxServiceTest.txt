@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: demo.TaxServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.004 sec <<< FAILURE! - in demo.TaxServiceTest
+testComputeService(demo.TaxServiceTest)  Time elapsed: 0.004 sec  <<< ERROR!
+java.lang.NullPointerException: null
+	at demo.TaxServiceTest.testComputeService(TaxServiceTest.java:34)
+
